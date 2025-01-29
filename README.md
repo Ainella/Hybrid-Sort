@@ -15,3 +15,10 @@ Hybrid-Sort is an algorithm that combines the strengths of multiple sorting tech
 
 - A C++ compiler that supports C++11 or later.
 
+Compile the Code:
+g++ -std=c++11 main.cpp -o hybrid_sort
+
+Run the Executable:
+./hybrid_sort
+
+
