@@ -1,8 +1,6 @@
 # Hybrid-Sort
 
-## Overview
-
-Hybrid-Sort is an algorithm that combines the strengths of multiple sorting techniques to optimize performance. By leveraging different sorting methods, it aims to achieve efficient sorting across various data sets and conditions.
+The Hybrid-Sort is an algorithm that combines the strengths of multiple sorting techniques to optimize performance. By leveraging different sorting methods, it aims to achieve efficient sorting across various data sets and conditions.
 
 ## Features
 
@@ -11,13 +9,15 @@ Hybrid-Sort is an algorithm that combines the strengths of multiple sorting tech
 -  Each sorting algorithm is implemented in a separate module for clarity and reusability.
 
 
-### Prerequisites
+## Prerequisites
 
 - A C++ compiler that supports C++11 or later.
 
+## Installation
 Compile the Code:
 g++ -std=c++11 main.cpp -o hybrid_sort
 
+## Usage
 Run the Executable:
 ./hybrid_sort
 
