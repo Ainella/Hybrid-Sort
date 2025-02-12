@@ -4,7 +4,7 @@ This project compares four sorting algorithms: Heap Sort, Merge Sort, Quick Sort
 
 ![image](https://github.com/user-attachments/assets/dfc266e4-b594-48f1-9082-2c9e00c22af6)
 
-Graphs were generated to illustrate sorting times for different input sizes. The results highlight:
+## Graphs were generated to illustrate sorting times for different input sizes. The results highlight:
 
 - Insertion Sort is efficient for small datasets but performs poorly on large datasets.
 
