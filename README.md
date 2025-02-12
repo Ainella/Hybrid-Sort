@@ -2,6 +2,8 @@
 
 The Hybrid-Sort is an algorithm that combines the strengths of multiple sorting techniques to optimize performance. By leveraging different sorting methods, it aims to achieve efficient sorting across various data sets and conditions.
 
+![Screenshot](https://github.com/Ainella/hybridsort/blob/main/screen.png)
+
 ## Features
 
 -  Utilizes a hybrid approach to enhance sorting efficiency.
