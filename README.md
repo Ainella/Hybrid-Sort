@@ -15,13 +15,27 @@ The process continues until the entire array is sorted.
 
 ## Graphs were generated to illustrate sorting times for different input sizes. The results highlight:
 
-- Insertion Sort is efficient for small datasets but performs poorly on large datasets.
+Insertion sort
+- For best case: O(n).
+- For worst case: O(n^2). 
 
-- Heap Sort and Merge Sort usually maintain O(n log n) complexity.
+Hybrid sort
+- Best case:  N+Nlog(N/K)  
+- Worst case: NK + Nlog(N/K) 
+where K is part size
 
-- Quick Sort is fast in general but can degrade to O(n²) in the worst case.
+Heap sort
+- Worst case time complexity of O(n(log(n)) [all elements in the list are distinct] 
+- Best case time complexity of O(n) [all elements are same]
 
-- Hybrid Sort efficiently combines Merge Sort and Insertion Sort for optimal performance.
+Merge sort
+- Worst Case Time Complexity [ Big-O ]: O(n*log n)
+- Best Case Time Complexity [Big-omega]: O(n*log n)
+
+Quick sort
+- Best Case Complexity O(n*log(n))
+- Worst Case Complexity O(n^2)
+
 
 ## Features
 
