@@ -10,6 +10,9 @@ Initially selects an element as a pivot element and partitions the given array a
 4. Insertion Sort:
 Insertion sort picks largest element in an sorted part and placed at the last position in the unsorted part. Then do same a few times with the smaller unsorted part of array.
 
+## Methodology 
+The algorithms implemented in C++.  The algorithms were tested on arrays of sizes from 10,20, 30, . . ., 9900. Each array size was tested 10 times. The results were generated for two categories: sorted array (best case of hybrid sort) and randomly shuffled arrays of values 0, 1, . . ., n − 1.
+
 The process continues until the entire array is sorted.
 ![image](https://github.com/user-attachments/assets/dfc266e4-b594-48f1-9082-2c9e00c22af6)
 
