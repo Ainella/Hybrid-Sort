@@ -57,11 +57,9 @@ Quick sort
 - Data Analysis & Visualization: Excel for plotting performance graphs
 
 ## Prerequisites
-
-- A C++ compiler that supports C++11 or later.
-  
-- Download the MinGW installer.
-Run the installer and follow the instructions to install MinGW. Make sure to install the mingw32-gcc-g++ package for C++ support.  
+- MinGW 
+- A C++ compiler that supports C++11 or later
+- Make
 
 ## Build
 - cd  <project_directory>
