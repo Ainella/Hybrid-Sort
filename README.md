@@ -86,9 +86,9 @@ Build the Project:
 
 Run the make command to build the project:
 
-## Installation
-Compile the Code:
-g++ -std=c++11 main.cpp -o hybrid_sort
+## Build
+- cd  <project_directory>
+- make
 
 ## Usage
 Run the Executable:
