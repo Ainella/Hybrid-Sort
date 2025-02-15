@@ -59,6 +59,32 @@ Quick sort
 ## Prerequisites
 
 - A C++ compiler that supports C++11 or later.
+Download the MinGW installer.
+Run the installer and follow the instructions to install MinGW. Make sure to install the mingw32-gcc-g++ package for C++ support.
+Add MinGW to the System Path:
+
+Open the Start Menu, search for "Environment Variables" and select "Edit the system environment variables".
+Click on the "Environment Variables" button.
+In the "System variables" section, find the Path variable, select it, and click "Edit".
+Add the path to the MinGW bin directory (e.g., C:\MinGW\bin) to the list and click "OK".
+Install make:
+
+You can download the make utility for Windows (e.g., from ezwinports).
+Extract the downloaded files and place make.exe in the MinGW bin directory (e.g., C:\MinGW\bin).
+Prepare the Project:
+
+Place all your project files (source files, headers, Makefile, etc.) in a directory (e.g., C:\Projects\SortAlgorithm).
+Open Command Prompt:
+
+Open the Command Prompt (cmd).
+Navigate to the Project Directory:
+
+Change the directory to your project directory using the cd command. For example:
+sh
+cd C:\Projects\SortAlgorithm
+Build the Project:
+
+Run the make command to build the project:
 
 ## Installation
 Compile the Code:
