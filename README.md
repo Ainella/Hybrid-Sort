@@ -59,11 +59,12 @@ Quick sort
 ## Prerequisites
 
 - A C++ compiler that supports C++11 or later.
-Download the MinGW installer.
+  
+- Download the MinGW installer.
 Run the installer and follow the instructions to install MinGW. Make sure to install the mingw32-gcc-g++ package for C++ support.
 Add MinGW to the System Path:
 
-Open the Start Menu, search for "Environment Variables" and select "Edit the system environment variables".
+- Open the Start Menu, search for "Environment Variables" and select "Edit the system environment variables".
 Click on the "Environment Variables" button.
 In the "System variables" section, find the Path variable, select it, and click "Edit".
 Add the path to the MinGW bin directory (e.g., C:\MinGW\bin) to the list and click "OK".
